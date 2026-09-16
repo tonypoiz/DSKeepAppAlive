@@ -9,7 +9,7 @@
       "version": "0.1.0-beta",
       "symbol": "bolt.horizontal.circle.fill",
       "author": "Antonio",
-      "scriptURL": "REPLACE_WITH_HTTPS_URL/AppKeepAlive.js"
+      "scriptURL": "scriptURL": "https://raw.githubusercontent.com/tonypoiz/DSKeepAppAlive/main/AppKeepAlive.js"
     }
   ]
 }
