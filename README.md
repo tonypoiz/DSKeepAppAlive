@@ -2,6 +2,7 @@
 JSON tweak for DarkSword vulnerable devices
 
 Add this repo and use the tweak inside a DarkSword Package Manager (Cyanide, Arsenic...) to keep any app alive in the background.
+Choose between apps using bundle ids.
 
 https://raw.githubusercontent.com/tonypoiz/DSKeepAppAlive/main/tweaks.json
 
