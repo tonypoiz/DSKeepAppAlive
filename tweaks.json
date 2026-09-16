@@ -1,0 +1,15 @@
+{
+  "repoName": "Antonio Arsenic Tweaks",
+  "author": "Antonio",
+  "tweaks": [
+    {
+      "id": "antonio.appkeepalive",
+      "name": "App KeepAlive",
+      "description": "Keep one running app active in the background with a reversible RunningBoard assertion.",
+      "version": "0.1.0-beta",
+      "symbol": "bolt.horizontal.circle.fill",
+      "author": "Antonio",
+      "scriptURL": "REPLACE_WITH_HTTPS_URL/AppKeepAlive.js"
+    }
+  ]
+}
